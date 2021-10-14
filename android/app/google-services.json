@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759645447418",
+    "project_id": "jp-news-app",
+    "storage_bucket": "jp-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759645447418:android:1880e39f65a3a784d2d543",
+        "android_client_info": {
+          "package_name": "com.example.jpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759645447418-nio9q289p3dhdpl6q1m4jp4ig29nim1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXfMd7_lVi-Yw4mvVtsbzxi8ZneI8RPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759645447418-nio9q289p3dhdpl6q1m4jp4ig29nim1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

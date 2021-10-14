@@ -1,0 +1,4 @@
+flutter_native_splash:  
+  color: "df0101"
+  fullscreen: true  
+  image: images/logo2.png
